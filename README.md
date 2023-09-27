@@ -1,4 +1,31 @@
-# p5.js Template
+# Thinking
+First, I want to explore how to make lines using for loop. 
+
+1. two sets of x and y: x1 y1 x2 y2
+2. use for loop to connect each pair
+
+# 1st try
+Okay, I overthought in my first attempt. I thought of a for loop this complicated:
+  // for (let number = 0; number <= 25; number += 1){
+  //   for (let x1pos = random(5,500); x1pos <= width; xpos += random(5,500)){
+  //     for (let y1pos = random(5,500); y1pos <= height; ypos += random(5,500)){
+  //       for (let x2pos = random(5,500); x2pos <= width; x2pos += random(5,500)){
+  //         for (let y2pos = random(5,500); y2pos <= width; y2pos += random(5,500)){
+  //           line(x1pos, y1pos, x2pos, y2pos)
+  //         }
+  //       }
+  //     }
+      
+  // } //each set of points for 25 times
+  // }
+
+  Here was what I got:
+  Image on repo:  
+![image description](./1.png)
+
+
+
+
 
 This is a README file that can be used to describe and document your assignment.
 
