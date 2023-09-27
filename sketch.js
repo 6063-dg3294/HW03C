@@ -1,5 +1,4 @@
-let diam = 1
-let diamRandom = random(5, 500)
+
 
 
 
