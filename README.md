@@ -23,6 +23,13 @@ Okay, I overthought in my first attempt. I thought of a for loop this complicate
   Image on repo:  
 ![image description](./1.png)
 
+# 2nd try
+  Then I realized if I'm using line() it would be just fine to use random() on the four points.
+  I put a randomseed() on the drawing. 
+  Here's the final drawing.
+
+  Image on repo:  
+![image description](./2.png)
 
 
 

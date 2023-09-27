@@ -8,11 +8,11 @@ function setup() {
 }
 
 function draw() {
-  background(200)
+  background(250)
 
 
   randomSeed(20)
-
+  strokeWeight(3)
   for (let number = 0; number < 25; number += 1){
     let x1 = random(width);
     let y1 = random (height);
